@@ -1,6 +1,4 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
 
 
 <h3>AIM:</h3>
@@ -42,8 +40,8 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 ## PROGRAM:
-### DEVELOPED BY: KAVYA K
-### REG NO: 212222230065
+### DEVELOPED BY: VISHAL GOWTHAMAN K R
+### REG NO: 212221230123
 ```
 class VacuumCleanerAgent:
     def __init__(self):
